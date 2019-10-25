@@ -11,6 +11,7 @@ tar -xvzf  1.9.tar.gz
 cd htslib-1.9
 make
 make install
+cd 
 ln -s libhts.so.2 libhts.so.1
 export LD_LIBRARY_PATH=/home/datasci/lib/htslib-1.9/
 ########### Adding cellranger,longranger and STAR
