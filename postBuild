@@ -10,7 +10,7 @@ wget https://github.com/samtools/htslib/archive/1.9.tar.gz
 tar -xvzf  1.9.tar.gz
 cd htslib-1.9
 make
-sudo make install
+make install
 ln -s libhts.so.2 libhts.so.1
 export LD_LIBRARY_PATH=/home/datasci/lib/htslib-1.9/
 ########### Adding cellranger,longranger and STAR
