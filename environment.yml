@@ -332,7 +332,6 @@ dependencies:
   - webencodings=0.5.1=py37_1
   - werkzeug=0.14.1=py37_0
   - wheel=0.33.1=py37_0
-  # - widgetsnbextension=3.4.2=py37_0
   - wrapt=1.11.1=py37h7b6447c_0
   - wurlitzer=1.0.2=py37_0
   - xlrd=1.2.0=py37_0
