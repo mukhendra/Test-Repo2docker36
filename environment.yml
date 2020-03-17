@@ -5,7 +5,6 @@ channels:
   - plotly
   - bioconda
   - conda-forge
-  - conda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
