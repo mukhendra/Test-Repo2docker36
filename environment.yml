@@ -350,7 +350,7 @@ dependencies:
     - async-generator==1.10
     - chardet==3.0.4
     - idna==2.8
-    - jupyterhub==1.1.0
+    - jupyterhub==0.9.4
     - mako==1.0.9
     - nteract-on-jupyter==2.0.12
     - pamela==1.0.0
